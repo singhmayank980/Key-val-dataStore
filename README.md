@@ -15,5 +15,5 @@ Appropriate error responses must always be returned to a client if it uses the d
 The file size never exceeds 1GB
 The file is accessed by multi-threading
 
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
 

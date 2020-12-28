@@ -15,6 +15,5 @@ Appropriate error responses must always be returned to a client if it uses the d
 The file size never exceeds 1GB
 The file is accessed by multi-threading
 
-x-special/nautilus-clipboard
-copy
-file:///home/mayank/Downloads/Screenshot%20from%202020-12-28%2012-04-27.png
+![alt text](file:///home/mayank/Downloads/Screenshot%20from%202020-12-28%2012-04-27.png)
+
